@@ -1,5 +1,5 @@
-# Twitterati
-Developing Twitter clone using Twitter API[currently under development]
+# Twitterati[*currently under development*]
+Developing Twitter clone using Twitter API
 
 ## To Do
 
